@@ -6,10 +6,6 @@ import './App.css'
 export default function App() {
   const [todo, setTodo] = useState("");
   const [list, setList] = useState([]);
-
-  const [checked, setChecked] = useState(false);
-
-
   const [open, isOpen] = useState(false);
 
   function handleInput() {
