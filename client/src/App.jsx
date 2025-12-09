@@ -20,8 +20,8 @@ export default function App() {
     }
   } 
 
-  function deleteTodo() {
-
+  function deleteTodo(targetIndex) {
+    setList((prevList) => (prevList.filter((_, i) => i !== targetIndex)));
   }
 
   return (
@@ -48,7 +48,7 @@ export default function App() {
                     <input className="check" type="checkbox"/>
                     <span className='checkmark'></span>
                     <span className='content'>{lists}</span>
-                    <button onClick={deleteTodo}>Remove</button>
+                    <button onClick={() => {deleteTodo(index)}}>Remove</button>
                   </label>
                 ))}
               </ul>
