@@ -11,4 +11,8 @@ To-do app, a simple project that allows user to add their to do list
 - Delete Task
 - Checkbox feature
 
-  
+# Tech Stack
+- **React** – Component-based UI library for building interactive user interfaces.
+- **JSX** – JavaScript XML syntax extension for writing HTML-like structures directly in JavaScript.
+- **Vite** – Next-generation frontend tooling for fast development and optimized builds.
+- **CSS3** – Styling language for responsive layouts, animations, and modern design features.
