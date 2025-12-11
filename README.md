@@ -1,10 +1,18 @@
 # Title & Description
 To-do app, a simple project that allows user to add their to do list
 
-# Screenshots
-<img width="2880" height="1800" alt="localhost_5173_(my pc)" src="https://github.com/user-attachments/assets/7fc158d2-5a5e-44a4-8a6b-129833b6f96f" />
-
-<img width="2880" height="1800" alt="localhost_5173_(my pc) (1)" src="https://github.com/user-attachments/assets/44bd72b1-0964-46a0-a309-a4bbfe2abfec" />
+# Demo
+https://github.com/user-attachments/assets/f2137f2c-e767-4ba6-b56a-a6b1e4b209ae
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github.com/user-attachments/assets/7fc158d2-5a5e-44a4-8a6b-129833b6f96f" width="100%" alt="Image 1" />
+    </td>
+    <td width="50%">
+      <img src="https://github.com/user-attachments/assets/44bd72b1-0964-46a0-a309-a4bbfe2abfec" width="100%" alt="Image 2" />
+    </td>
+  </tr>
+</table>
 
 # Features
 - Add Task
