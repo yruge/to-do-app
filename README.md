@@ -28,4 +28,4 @@ https://github.com/user-attachments/assets/f2137f2c-e767-4ba6-b56a-a6b1e4b209ae
 ## 🌐 Deployment
 This application is deployed using Vercel.
 
-Live Demo: yruge-todo.vercel.app
+Live Demo: https://yruge-todo.vercel.app/
