@@ -1,7 +1,7 @@
-# Title & Description
+# 💡 Project Overview
 To-do app, a simple project that allows user to add their to do list
 
-# Demo
+# 💻 Demo
 https://github.com/user-attachments/assets/f2137f2c-e767-4ba6-b56a-a6b1e4b209ae
 <table>
   <tr>
@@ -14,13 +14,18 @@ https://github.com/user-attachments/assets/f2137f2c-e767-4ba6-b56a-a6b1e4b209ae
   </tr>
 </table>
 
-# Features
+# ✨ Features
 - Add Task
 - Delete Task
 - Checkbox feature
 
-# Tech Stack
+# 🛠️ Tech Stack & Architecture
 - **React** – Component-based UI library for building interactive user interfaces.
 - **JSX** – JavaScript XML syntax extension for writing HTML-like structures directly in JavaScript.
 - **Vite** – Next-generation frontend tooling for fast development and optimized builds.
 - **CSS3** – Styling language for responsive layouts, animations, and modern design features.
+
+## 🌐 Deployment
+This application is deployed using Vercel.
+
+Live Demo: yruge-todo.vercel.app
